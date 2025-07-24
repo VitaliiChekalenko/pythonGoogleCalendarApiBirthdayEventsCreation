@@ -107,8 +107,3 @@ credentials.json
 token.json
 ```
 
----
-
-## 🤖 About
-
-This script was generated using OpenAI's ChatGPT and utilizes the Google Calendar API (v3).
